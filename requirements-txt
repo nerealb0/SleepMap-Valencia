@@ -1,0 +1,5 @@
+streamlit
+geopandas==0.14.4
+shapely
+pyproj
+fiona
